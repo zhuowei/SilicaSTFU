@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SilicaSTFU</string>
+    <string name="voice_mute">shut up</string>
+    <string name="voice_unmute">start talking</string>
+    <string name="has_muted">Glass has been muted</string>
+    <string name="has_unmuted">Glass has been unmuted</string>
+    <string name="toggle_activity">Toggle mute</string>
+</resources>
